@@ -1,48 +1,6 @@
 ## Gitblog
+My personal blog using issues and GitHub Actions (随意转载，无需署名)
+[RSS Feed](https://raw.githubusercontent.com/Narglc/gitblog/master/feed.xml)
 
-
-## [友情链接]()
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Link</th>
-<th>Desc</th>
-</tr>
-</thead>
-<tbody>
-
-</tbody>
-</table>
-
-## 置顶文章
-- 暂无
-  
 ## 最近更新
-
-
-## 一些计划
-
-
-## 一些记录
-
-
-## 工作
-  
-
-## 技术文章
-
-
-## 日记
-
-
-## 精进计划
-
-
-## 读书笔记
-
-
-## 2024
-
-
-## TODO
+- [2023年总结](https://github.com/Narglc/gitblog/issues/1)--2024-01-01
